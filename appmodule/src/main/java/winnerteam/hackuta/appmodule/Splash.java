@@ -1,5 +1,7 @@
 package winnerteam.hackuta.appmodule;
 
+import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -25,15 +27,18 @@ public class Splash extends AppCompatActivity {
                     Color.parseColor("#678FB4"), R.drawable.super_smash, R.drawable.ic_keyboard_voice_black_24dp);
             PaperOnboardingPage scr2 = new PaperOnboardingPage("Banks",
                     "We carefully verify all banks before add them into the app",
-                    Color.parseColor("#65B0B4"), R.drawable.banks, R.drawable.ic_record_voice_over_black_24dp);
+                    Color.parseColor("#65B0B4"), R.drawable.super_smash_1, R.drawable.ic_record_voice_over_black_24dp);
             PaperOnboardingPage scr3 = new PaperOnboardingPage("Stores",
                     "All local stores are categorized for your convenience",
-                    Color.parseColor("#9B90BC"), R.drawable.stores, R.drawable.ic_videogame_asset_black_24dp);
+                    Color.parseColor("#9B90BC"), R.drawable.smash, R.drawable.ic_videogame_asset_black_24dp);
 
             ArrayList<PaperOnboardingPage> elements = new ArrayList<>();
             elements.add(scr1);
             elements.add(scr2);
             elements.add(scr3);
+        }
+        else{
+            startActivity(new Intent(this, MainActivity.class));
         }
     }
 
