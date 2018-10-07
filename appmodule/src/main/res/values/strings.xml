@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">MeleeMe!!</string>
+    <string name="speech_prompt">PressMe</string>
+    <string name="speech_not_supported">Sorry just don\'t get it</string>
+
+    <string-array name="characterName">
+        <item>Mario</item>
+        <item>Luigi</item>
+        <item>Yoshi</item>
+        <item>Donkey Kong</item>
+        <item>Link</item>
+        <item>Samus</item>
+        <item>Kirby</item>
+        <item>Fox</item>
+        <item>Pikachu</item>
+        <item>Jigglypuff</item>
+        <item>Captain Falcon</item>
+        <item>Ness</item>
+        <item>Peach</item>
+        <item>Bowser</item>
+        <item>Dr. Mario</item>
+        <item>Zelda</item>
+        <item>Shiek</item>
+        <item>Ganondorf</item>
+        <item>Young Link</item>
+        <item>Falco</item>
+        <item>Mewtwo</item>
+        <item>Pichu</item>
+        <item>Ice Climbers</item>
+        <item>Marth</item>
+        <item>Roy</item>
+        <item>Mr. Game &amp; Watch</item>
+
+    </string-array>
+
+    <string name="mario_moves">Fireball B ,Cape Attack right or left plus B, Uppercut up plus B, Mario Tornato down plus B </string>
+    <string name="luigi_moves">Fireball B, Green Missile Right or left plus B, uppercut Up plus B,  Luigi Cyclone Down plus B and A to throw bomb</string>
+
+
 </resources>

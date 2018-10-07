@@ -34,14 +34,8 @@ public class ListeningActivity extends AppCompatActivity {
         setContentView(R.layout.activity_listening);
         txtSpeechInput = (TextView) findViewById(R.id.characterName);
         btnSpeak = (Button) findViewById(R.id.button);
+        promptSpeechInput();
 
-        btnSpeak.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                promptSpeechInput();
-            }
-        });
 
     }
 
@@ -69,10 +63,8 @@ public class ListeningActivity extends AppCompatActivity {
     private void promptSpeechInput() {
         Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
         intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL,
-                RecognizerIntent.LANGUAGE_MODEL_FREE_FORM);
+                RecognizerIntent.ACTION_VOICE_SEARCH_HANDS_FREE);
         intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE, Locale.getDefault());
-        intent.putExtra(RecognizerIntent.EXTRA_PROMPT,
-                getString(R.string.speech_prompt));
         try {
             startActivityForResult(intent, REQ_CODE_SPEECH_INPUT);
         } catch (ActivityNotFoundException a) {
