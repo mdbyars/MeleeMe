@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MeleeMe!!</string>
+
+
+    <
+    <string-array name="character_names">
+
+        <item> </item>
+
+    </string-array>
+
 </resources>
