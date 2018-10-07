@@ -1,27 +1,21 @@
 package winnerteam.hackuta.appmodule;
 
 import android.Manifest;
-import android.content.ActivityNotFoundException;
-import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.AsyncTask;
-import android.os.Build;
 import android.os.Bundle;
-import android.speech.RecognitionListener;
-import android.speech.RecognizerIntent;
 import android.speech.SpeechRecognizer;
-import android.support.annotation.RequiresApi;
-import android.support.v7.app.AppCompatActivity;
+import android.support.annotation.NonNull;
 import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import android.support.v7.app.AppCompatActivity;
 import java.io.File;
 import java.io.IOException;
 import java.lang.ref.WeakReference;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Locale;
+
+import edu.cmu.pocketsphinx.Hypothesis;
 
 public class ListeningActivity extends AppCompatActivity {
 
@@ -239,6 +233,3 @@ public class ListeningActivity extends AppCompatActivity {
     }
 }
 
-
-
-}
