@@ -16,16 +16,15 @@
         <activity android:name=".MainActivity">
 
         </activity>
-        <activity android:name=".ListeningActivity" />
+        <activity android:name=".ListeningActivity" android:theme="@style/ListeningActivityTheme" />
         <activity android:name=".Splash">
-
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <service android:name=".service.MyService"></service>
     </application>
 
 </manifest>
