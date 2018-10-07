@@ -1,15 +1,22 @@
 package winnerteam.hackuta.appmodule.service;
 
 import android.app.Service;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.ServiceConnection;
 import android.media.AudioManager;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
+import android.os.IBinder;
 import android.os.Message;
 import android.os.Messenger;
+import android.os.RemoteException;
+import android.speech.RecognitionListener;
+import android.speech.RecognizerIntent;
+import android.speech.SpeechRecognizer;
 import android.os.RemoteException;
 import android.speech.RecognitionListener;
 import android.speech.RecognizerIntent;
@@ -18,12 +25,16 @@ import android.util.Log;
 
 import java.lang.ref.WeakReference;
 
-public class MyService extends Service {
-    public  AudioManager mAudioManager;
+import java.lang.ref.WeakReference;
+
+public abstract class MyService extends Service{
+    /*
+    public static final String TAG=MyService.class.getSimpleName();
+    protected AudioManager mAudioManager;
     protected SpeechRecognizer mSpeechRecognizer;
     protected Intent mSpeechRecognizerIntent;
     protected final Messenger mServerMessenger = new Messenger(new IncomingHandler(this));
-    public static final String TAG=MyService.class.getSimpleName();
+
     protected boolean mIsListening;
     protected volatile boolean mIsCountDownOn;
     private boolean mIsStreamSolo;
@@ -48,7 +59,6 @@ public class MyService extends Service {
     protected static class IncomingHandler extends Handler
     {
         private WeakReference<MyService> mtarget;
-        private boolean mIsStreamSolo;
 
         IncomingHandler(MyService target)
         {
@@ -226,4 +236,5 @@ public class MyService extends Service {
         }
 
     }
+*/
 }
