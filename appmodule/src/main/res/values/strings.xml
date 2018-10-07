@@ -39,7 +39,7 @@
     <string name="donkey_kong_moves">Giant Punch hold B, Headbutt right or left plus B, Spinning Kong up plus B, ground pound down plus B</string>
     <string name="link_moves">Arrow shot B, Boomerang left or right plus B, Spin attack up plus B, Bomb down plus B then A to throw</string>
     <string name="samus_moves">Charged shot B, missile shot right or left plus B, screw attack  up plus B, Morph bomb down plus B</string>
-    <string name="kirby_moves">Swollow B, hammer right or left plus B, Final cutter up plus b, stone down plus b</string>
+    <string name="kirby_moves">Swallow B, hammer right or left plus B, Final cutter up plus b, stone down plus b</string>
     <string name="fox_moves">Gunshot b, fox illusion right or left plus B, fire fox up plus b, reflector down plus b</string>
     <string name="pikachu_moves">thunder jolt B, skull bash right or left plus B, quick attack up plus b then any direction for followup, thunder down plus b</string>
     <string name="jigglypuff_moves">rollout b, pound right or left plus B, sing up plus b, rest down plus b</string>
@@ -48,9 +48,15 @@
     <string name="peach_moves">toad b, peach bomber right or left plus b, peach parasol up plus b, vegetable down plus b then a to throw</string>
     <string name="bowser">fire breath b,slash right or left plus b then repeat b, whirling fortress up plus b, bowser bomb down plus b</string>
     <string name="dr_mario_moves">mega-vitamin b, super sheet right or left plus b, uppercut up plus b, Dr. tornado down plus b</string>
-    <string name="zelda_moves">nayru's love b, din's fire right or left plus b then up or down for control, farore's wind up plus b, transform into Sheik down plus b</string>
+    <string name="zelda_moves">nayru's love b, din\'s fire right or left plus b then up or down for control, farore\'s wind up plus b, transform into Sheik down plus b</string>
     <string name="shiek_moves">Needle storm b, chain right or left plus b, vanish up plus b, transform into zelda down plus b</string>
-
-
-
+    <string name="ganondorf_moves">warlock punch b, Gerudo dragon right or left plus b, dark dive up plus b, wizard\'s food down plus b</string>
+    <string name="young_link_moves">arrow show plus b, boomerang right or left plus b, spin attack up plus b, bomb down plus b then a to throw</string>
+    <string name="falco_moves">gunshot b, falco phantasm right or left plus b, fire falco up plus b, reflector down plus b</string>
+    <string name="mewtwo_moves">shadow ball b, confusion right or left plus b, teleport up plus b, disable down plus b</string>
+    <string name="pichu_moves">thunder jolt b, skull bash right or left plus b, quick attack up plus b then any direction for followup, thunder down plus b</string>
+    <string name="ice_climbers_moves">ice shot b, squall hammer left or right plus b, belay up plus b, blizzard down plus b</string>
+    <string name="marth_moves">shield breaker b, swords dance right or left plus b up to 4 times, dolphin slash up plus b, counter down plus b</string>
+    <string name="roy_moves">flare blade b, double edge dance right or left plus b, blazer up plus b, counter down plus b</string>
+    <string name="mr_game_moves">bacon b, judgement right or left plus b, fire up plus b, oil panic down plus b</string>
 </resources>
