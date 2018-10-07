@@ -35,6 +35,22 @@
 
     <string name="mario_moves">Fireball B ,Cape Attack right or left plus B, Uppercut up plus B, Mario Tornato down plus B </string>
     <string name="luigi_moves">Fireball B, Green Missile Right or left plus B, uppercut Up plus B,  Luigi Cyclone Down plus B and A to throw bomb</string>
+    <string name="yoshi_moves">Egg Lay B, Egg Roll right or left plus B, Egg throw up plus B, Yoshi bomb down plus B</string>
+    <string name="donkey_kong_moves">Giant Punch hold B, Headbutt right or left plus B, Spinning Kong up plus B, ground pound down plus B</string>
+    <string name="link_moves">Arrow shot B, Boomerang left or right plus B, Spin attack up plus B, Bomb down plus B then A to throw</string>
+    <string name="samus_moves">Charged shot B, missile shot right or left plus B, screw attack  up plus B, Morph bomb down plus B</string>
+    <string name="kirby_moves">Swollow B, hammer right or left plus B, Final cutter up plus b, stone down plus b</string>
+    <string name="fox_moves">Gunshot b, fox illusion right or left plus B, fire fox up plus b, reflector down plus b</string>
+    <string name="pikachu_moves">thunder jolt B, skull bash right or left plus B, quick attack up plus b then any direction for followup, thunder down plus b</string>
+    <string name="jigglypuff_moves">rollout b, pound right or left plus B, sing up plus b, rest down plus b</string>
+    <string name="captain_falcon_moves">falcon punch B, raptor boost right or left plus B, falcon dive up plus b, falcon kick down plus b</string>
+    <string name="ness_moves">Pk flash b, pk fire right or left plus b, pk thunder up plus b, psi magnet down plus b</string>
+    <string name="peach_moves">toad b, peach bomber right or left plus b, peach parasol up plus b, vegetable down plus b then a to throw</string>
+    <string name="bowser">fire breath b,slash right or left plus b then repeat b, whirling fortress up plus b, bowser bomb down plus b</string>
+    <string name="dr_mario_moves">mega-vitamin b, super sheet right or left plus b, uppercut up plus b, Dr. tornado down plus b</string>
+    <string name="zelda_moves">nayru's love b, din's fire right or left plus b then up or down for control, farore's wind up plus b, transform into Sheik down plus b</string>
+    <string name="shiek_moves">Needle storm b, chain right or left plus b, vanish up plus b, transform into zelda down plus b</string>
+
 
 
 </resources>
