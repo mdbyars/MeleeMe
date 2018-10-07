@@ -75,7 +75,7 @@ public class SpeechRecognizer {
     
     /**
      * Creates speech recognizer. Recognizer holds the AudioRecord object, so you 
-     * need to call {@link release} in order to properly finalize it.
+     * need to call {@link } release in order to properly finalize it.
      * 
      * @param config The configuration object
      * @throws IOException thrown if audio recorder can not be created for some reason.
