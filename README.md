@@ -13,9 +13,9 @@ This application was developed for Android using Android Studio. We used the nat
 ## Challenges we ran into
 One of the challenges we ran into was the inability for the native voice to text software to constantly listen for the duration of a game while also storing the information recorded. However we were able to add this funcitonality. 
 
-## Accomplishments that we're proud of
-
-
 ## What we learned
+Many of us had never worked on Android development before. This was also developed at HackUTA. This was also the first time many of us had competed in a hackathon. We learned, not only better design for applications, but ways to use time more effectively and work better in a team. Version control through complicated errors was something we pushed through constantly. This challenged even the most expirenced of us in this project.  
 
 ## What's next for Melee Me!!
+Next steps could include making Melee Me cross platform for all of those Apple Smashers! But we would also like to create more sophisticated and specialized sound recognition capabilities to make the app also respond to the game's character selection noises and not just the players voice. However, next, we are all most likely just going to be playing Melee. 
+Happy gaming! 
