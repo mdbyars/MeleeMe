@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app1/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/app1/src/androidTest/androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/app/src/androidTest/androidTest1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appmodule/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/appmodule/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTS/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/TTS/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/app1/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmodule/src/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/appmodule/src/androidTest/androidTest3.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/src/main/main.iml" filepath="$PROJECT_DIR$/app/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appmodule/src/main/main1.iml" filepath="$PROJECT_DIR$/appmodule/src/main/main1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app1/src/main/main2.iml" filepath="$PROJECT_DIR$/app1/src/main/main2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app1/src/test/test.iml" filepath="$PROJECT_DIR$/app1/src/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appmodule/src/test/test1.iml" filepath="$PROJECT_DIR$/appmodule/src/test/test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/src/test/test2.iml" filepath="$PROJECT_DIR$/app/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTS/app/src/main/main1.iml" filepath="$PROJECT_DIR$/TTS/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmodule/src/main/main2.iml" filepath="$PROJECT_DIR$/appmodule/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/src/main/main3.iml" filepath="$PROJECT_DIR$/app1/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTS/app/src/test/test.iml" filepath="$PROJECT_DIR$/TTS/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/src/test/test1.iml" filepath="$PROJECT_DIR$/app1/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmodule/src/test/test2.iml" filepath="$PROJECT_DIR$/appmodule/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/test/test3.iml" filepath="$PROJECT_DIR$/app/src/test/test3.iml" />
     </modules>
   </component>
 </project>
