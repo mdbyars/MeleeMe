@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
     private void populateCharacters() {
         Log.i(TAG, "populateCharacters: ");
 
-        Character
-
     }
 
 
