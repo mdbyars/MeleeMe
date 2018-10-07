@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MeleeMe.iml" filepath="$PROJECT_DIR$/MeleeMe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appmodule/appmodule.iml" filepath="$PROJECT_DIR$/appmodule/appmodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/models/models.iml" filepath="$PROJECT_DIR$/models/models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/app1/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmodule/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/appmodule/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/main/main.iml" filepath="$PROJECT_DIR$/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmodule/src/main/main1.iml" filepath="$PROJECT_DIR$/appmodule/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/src/main/main2.iml" filepath="$PROJECT_DIR$/app1/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/src/test/test.iml" filepath="$PROJECT_DIR$/app1/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmodule/src/test/test1.iml" filepath="$PROJECT_DIR$/appmodule/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/test/test2.iml" filepath="$PROJECT_DIR$/app/src/test/test2.iml" />
     </modules>
   </component>
 </project>
